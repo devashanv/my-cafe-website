@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>/</loc></url>
-  <url><loc>/menu</loc></url>
-  <url><loc>/about</loc></url>
-  <url><loc>/visit</loc></url>
-  <url><loc>/blog</loc></url>
-  <url><loc>/contact</loc></url>
-  <url><loc>/blog/best-coffee-experiences-kandy</loc></url>
-  <url><loc>/blog/choosing-coffee-drinks</loc></url>
-  <url><loc>/blog/breakfast-cafe-morning</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/menu</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/about</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/visit</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/blog</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/contact</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/blog/best-coffee-experiences-kandy</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/blog/choosing-coffee-drinks</loc></url>
+  <url><loc>https://my-cafe-website-two.vercel.app/blog/breakfast-cafe-morning</loc></url>
 </urlset>
