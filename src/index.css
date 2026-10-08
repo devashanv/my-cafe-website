@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cafe-cream: #f8f3ea;
+  --color-cafe-coffee: #5b3825;
+  --color-cafe-terracotta: #b86f52;
+  --color-cafe-ink: #2d251f;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-cafe-cream);
+  color: var(--color-cafe-ink);
+}
